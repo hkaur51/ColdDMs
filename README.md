@@ -2,7 +2,7 @@
 
 A reusable skill for writing cold and warm outreach DMs that actually get replies, plus the thank-you notes, follow-ups, and post-comments around them. The full playbook lives in `SKILL.md`. This README covers what's here, how to use it, and the part that makes or breaks every message: **how to research a person and read their work before you write a word.**
 
-**This guide is the result of cold DM-ing people on LinkedIn and reiterating the content and outreach messages over four months. It produced a ~30% conversion rate from cold DM to coffee chat. Folks who I had genuine interest and experience overlap with replied 90% of the time.**
+**This guide is the result of cold DM-ing people on LinkedIn and reiterating the content and outreach messages over four months. It produced a ~30% conversion rate from a cold DM to coffee chat. Folks who I had genuine interest and experience overlap with replied 90% of the time.**
 
 ## What's in here
 
